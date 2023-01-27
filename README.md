@@ -11,7 +11,7 @@ Este é o repositório oficial do Curso Python para Todos, sinta-se livre para c
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/pt-br/3/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 
-## Módulo 1: Introdução à programação
+## [Módulo 1: Introdução à programação](https://github.com/jrtedeschi/pythonparatodos.github.io/blob/main/modulos/modulo_1.md#configura%C3%A7%C3%A3o-de-um-ambiente-de-desenvolvimento)
 
 * Visão geral dos conceitos de programação e da importância da programação no mundo de hoje
 * Configuração de um ambiente de desenvolvimento, como instalar e configurar o Google Colab, incluindo como criar novos notebooks, carregar arquivos e gerenciar pacotes.
