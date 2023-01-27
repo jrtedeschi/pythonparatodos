@@ -12,7 +12,7 @@ Este é o repositório oficial do Curso Python para Todos, sinta-se livre para c
 ## Módulo 1: Introdução à programação
 
 * Visão geral dos conceitos de programação e da importância da programação no mundo de hoje
-* Configuração de um ambiente de desenvolvimento (por exemplo, instalando um editor de texto e uma linguagem de programação)
+* Configuração de um ambiente de desenvolvimento, como instalar e configurar o Google Colab, incluindo como criar novos notebooks, carregar arquivos e gerenciar pacotes.
 * Conceitos básicos, como tipos de dados, variáveis e estruturas de controle
 
 ## Módulo 2: Fundamentos do Python
